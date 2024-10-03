@@ -1,1 +1,1 @@
-# bst
+This project involves creating a Binary Search Tree (BST) to manage a library of books. The tree allows for users to efficient search, add, remove, check in/out, and update any book records. Books are stored and organized based on the author's last name and its title.
